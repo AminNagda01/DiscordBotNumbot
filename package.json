@@ -9,10 +9,10 @@
   "author": "Amin Nagda",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^13.6.0",
+    "discord.js": "^14.14.0-dev.1696291766-93e5bed87.0",
     "dotenv": "^16.0.0"
   },
   "devDependencies": {
-    "eslint": "^8.14.0"
+    "eslint": "^8.50.0"
   }
 }
